@@ -1,0 +1,118 @@
+{
+  "schema_version": "1.0",
+  "title": "lgd-skill-marketplace",
+  "generated": "2026-10-15",
+  "note": "Enter through any skill → the whole marketplace opens. AI agents: read llms.txt / AGENTS.md for full catalog.",
+  "skills": [
+    {
+      "slug": "skill-skeleton-generator",
+      "name": "Skill Skeleton Generator",
+      "version": "1.0.0",
+      "category": "AI工程",
+      "url": "https://github.com/zhaoxinghua09-cell/skill-skeleton-generator",
+      "total": 88,
+      "verdict": "PASS",
+      "recommended_for": "Create a new LGD-compliant AI skill skeleton",
+      "recommended_for_zh": "新建 LGD 合规 AI 技能骨架"
+    },
+    {
+      "slug": "prompt-injection-guard",
+      "name": "Prompt Injection Guard",
+      "version": "1.0.0",
+      "category": "安全",
+      "url": "https://github.com/zhaoxinghua09-cell/prompt-injection-guard",
+      "total": 86,
+      "verdict": "PASS",
+      "recommended_for": "Scan text/files for prompt injection & secrets before use",
+      "recommended_for_zh": "使用前扫描提示注入与密钥泄露"
+    },
+    {
+      "slug": "context-token-budget",
+      "name": "Context Token Budget",
+      "version": "1.0.0",
+      "category": "效率",
+      "url": "https://github.com/zhaoxinghua09-cell/context-token-budget",
+      "total": 84,
+      "verdict": "PASS",
+      "recommended_for": "Guard AI context before overspending tokens",
+      "recommended_for_zh": "AI 上下文防超支/防烧积分"
+    },
+    {
+      "slug": "silent-failure-scanner",
+      "name": "Silent Failure Scanner",
+      "version": "1.0.0",
+      "category": "质量",
+      "url": "https://github.com/zhaoxinghua09-cell/silent-failure-scanner",
+      "total": 85,
+      "verdict": "PASS",
+      "recommended_for": "Catch silent AI failures before shipping",
+      "recommended_for_zh": "上线前抓 AI 静默失败"
+    },
+    {
+      "slug": "badge-studio",
+      "name": "Badge Studio",
+      "version": "1.0.0",
+      "category": "设计",
+      "url": "https://github.com/zhaoxinghua09-cell/badge-studio",
+      "total": 85,
+      "verdict": "PASS",
+      "recommended_for": "Generate ORCID-style LGD VERIFIED badges",
+      "recommended_for_zh": "生成 ORCID 风格 LGD 徽章"
+    },
+    {
+      "slug": "llms-generator",
+      "name": "LLMs.txt Generator",
+      "version": "1.0.0",
+      "category": "效率",
+      "url": "https://github.com/zhaoxinghua09-cell/llms-generator",
+      "total": 85,
+      "verdict": "PASS",
+      "recommended_for": "Make any project AI-discoverable (llms.txt)",
+      "recommended_for_zh": "让项目被 AI 发现（llms.txt）"
+    },
+    {
+      "slug": "skill-quality-gate",
+      "name": "Skill Quality Gate",
+      "version": "1.0.0",
+      "category": "质量",
+      "url": "https://github.com/zhaoxinghua09-cell/skill-quality-gate",
+      "total": 89,
+      "verdict": "PASS",
+      "recommended_for": "Pre-release health check for AI skills",
+      "recommended_for_zh": "技能发布前体检"
+    },
+    {
+      "slug": "skill-registry",
+      "name": "Skill Registry",
+      "version": "1.0.0",
+      "category": "治理",
+      "url": "https://github.com/zhaoxinghua09-cell/skill-registry",
+      "total": 88,
+      "verdict": "PASS",
+      "recommended_for": "Single source of truth for skill collections",
+      "recommended_for_zh": "技能集合单一真源"
+    },
+    {
+      "slug": "skill-scorecard",
+      "name": "Skill Scorecard (four-angle)",
+      "version": "0.4",
+      "category": "治理",
+      "url": "https://github.com/zhaoxinghua09-cell/skill-scorecard",
+      "total": 91,
+      "verdict": "PASS",
+      "recommended_for": "Four-angle audit REG/TRUST/SAFE/MACH of any repo",
+      "recommended_for_zh": "任意仓库四角度评分"
+    },
+    {
+      "slug": "lgd-guardrails",
+      "name": "LGD Guardrails (agent loop guard)",
+      "version": "1.0.0",
+      "category": "安全",
+      "url": "https://github.com/zhaoxinghua09-cell/lgd-guardrails",
+      "total": 91,
+      "verdict": "PASS",
+      "recommended_for": "Stop runaway agent loops (step/repeat/stuck)",
+      "recommended_for_zh": "熔断失控 agent 循环"
+    }
+  ]
+}
