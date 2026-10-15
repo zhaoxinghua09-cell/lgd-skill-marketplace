@@ -1,0 +1,25 @@
+# lgd-skill-marketplace
+
+> LGD Skill Marketplace — one-stop AI skill catalog. Enter from any skill.
+
+## Skills
+
+- Skill Skeleton Generator: https://github.com/zhaoxinghua09-cell/skill-skeleton-generator (AI工程, 88/100, recommended: Create a new LGD-compliant AI skill skeleton)
+- Prompt Injection Guard: https://github.com/zhaoxinghua09-cell/prompt-injection-guard (安全, 86/100, recommended: Scan text/files for prompt injection & secrets before use)
+- Context Token Budget: https://github.com/zhaoxinghua09-cell/context-token-budget (效率, 84/100, recommended: Guard AI context before overspending tokens)
+- Silent Failure Scanner: https://github.com/zhaoxinghua09-cell/silent-failure-scanner (质量, 85/100, recommended: Catch silent AI failures before shipping)
+- Badge Studio: https://github.com/zhaoxinghua09-cell/badge-studio (设计, 85/100, recommended: Generate ORCID-style LGD VERIFIED badges)
+- LLMs.txt Generator: https://github.com/zhaoxinghua09-cell/llms-generator (效率, 85/100, recommended: Make any project AI-discoverable (llms.txt))
+- Skill Quality Gate: https://github.com/zhaoxinghua09-cell/skill-quality-gate (质量, 89/100, recommended: Pre-release health check for AI skills)
+- Skill Registry: https://github.com/zhaoxinghua09-cell/skill-registry (治理, 88/100, recommended: Single source of truth for skill collections)
+- Skill Scorecard (four-angle): https://github.com/zhaoxinghua09-cell/skill-scorecard (治理, 91/100, recommended: Four-angle audit REG/TRUST/SAFE/MACH of any repo)
+- LGD Guardrails (agent loop guard): https://github.com/zhaoxinghua09-cell/lgd-guardrails (安全, 91/100, recommended: Stop runaway agent loops (step/repeat/stuck))
+
+## Ecosystem
+
+- awesome-trusted-agents: https://github.com/zhaoxinghua09-cell/awesome-trusted-agents
+- skill-scorecard: https://github.com/zhaoxinghua09-cell/skill-scorecard
+- lgd-hub: https://github.com/zhaoxinghua09-cell/lgd-hub
+- ORCID: https://orcid.org/0009-0001-0512-1237
+- Zenodo: https://doi.org/10.5281/zenodo.23385209
+- Standards: https://github.com/FG-TIDA
