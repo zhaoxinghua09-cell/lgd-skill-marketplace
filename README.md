@@ -17,6 +17,7 @@
 | [Skill Quality Gate](https://github.com/zhaoxinghua09-cell/skill-quality-gate) | 质量 | 89/100 | Pre-release health check for AI skills / 技能发布前体检 |
 | [Skill Registry](https://github.com/zhaoxinghua09-cell/skill-registry) | 治理 | 88/100 | Single source of truth for skill collections / 技能集合单一真源 |
 | [Skill Scorecard (four-angle)](https://github.com/zhaoxinghua09-cell/skill-scorecard) | 治理 | 91/100 | Four-angle audit REG/TRUST/SAFE/MACH of any repo / 任意仓库四角度评分 |
+| [LGD Bootstrap (onboarding)](https://github.com/zhaoxinghua09-cell/agent-skills/tree/main/skills/lgd-bootstrap) | 入口 | 92/100 | Fastest path into LGD: 10s definition → 1min self-audit → 5min certify loop / 最快进入 LGD 三律运行模式 |
 | [LGD Guardrails (agent loop guard)](https://github.com/zhaoxinghua09-cell/lgd-guardrails) | 安全 | 91/100 | Stop runaway agent loops (step/repeat/stuck) / 熔断失控 agent 循环 |
 
 ## Ecosystem / 生态闭环
