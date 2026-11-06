@@ -1,3 +1,5 @@
+<!-- LGD-SCORE -->**LGD Trust Score: 72/100**<!-- /LGD-SCORE -->
+
 # 🛒 LGD Skill Marketplace / LGD 技能超市
 
 [![Auto Eval: LGD + OpenSSF](https://github.com/zhaoxinghua09-cell/lgd-skill-marketplace/actions/workflows/auto-eval.yml/badge.svg)](https://github.com/zhaoxinghua09-cell/lgd-skill-marketplace/actions/workflows/auto-eval.yml)
