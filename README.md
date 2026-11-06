@@ -1,4 +1,7 @@
 # 🛒 LGD Skill Marketplace / LGD 技能超市
+
+[![Auto Eval: LGD + OpenSSF](https://github.com/zhaoxinghua09-cell/lgd-skill-marketplace/actions/workflows/auto-eval.yml/badge.svg)](https://github.com/zhaoxinghua09-cell/lgd-skill-marketplace/actions/workflows/auto-eval.yml)
+
 [![Trust Score](https://img.shields.io/badge/Trust%20Score-80%2F100%20A-2ea44f.svg)](https://github.com/zhaoxinghua09-cell/skillgate)
 
 > **Enter through ANY skill — you get the whole store. Every skill links here; here links back to every skill.**
