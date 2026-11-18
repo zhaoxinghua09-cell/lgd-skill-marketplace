@@ -1,4 +1,4 @@
-<!-- SCORECARD-SCORE -->**OpenSSF Scorecard: 3.8/10**<!-- /SCORECARD-SCORE -->
+<!-- SCORECARD-SCORE -->**OpenSSF Scorecard: 4.3/10**<!-- /SCORECARD-SCORE -->
 
 <!-- LGD-SCORE -->**LGD Trust Score: 72/100**<!-- /LGD-SCORE -->
 
